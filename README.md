@@ -8,4 +8,4 @@
 -Entity Framework
 -Caching, Validation, Transaction, Performance Aspects
 
-Frontend=> [GitHub Pages](https://github.com/drybozan/Sepetle.com-Frontend)
+Click for [FRONTEND](https://github.com/drybozan/Sepetle.com-Frontend)
